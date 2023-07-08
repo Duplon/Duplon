@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Duplon
 - 👀 I’m interested in cars, games and technology.
 - 🌱 I’m currently learning C++, Java and Python.
-- 📫 How to reach me - Duplon#0001
+- 📫 How to reach me - duplon
 
 <!---
 Duplon/Duplon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
